@@ -11,7 +11,7 @@ int main()
     system("pause");
     return 0;
 } */
-/* YangHuiTriangle
+//YangHuiTriangle
 #include<stdio.h>
 #include<systemtopologyapi.h>
 int main(){
@@ -33,4 +33,4 @@ int main(){
     }
     system("pause");
     return 0;
-} */
+} 
