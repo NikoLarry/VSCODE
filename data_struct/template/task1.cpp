@@ -39,7 +39,7 @@ using namespace std;
 /* main(){
     int i,j,*p1,*p2;
     i = 1;
-    j = 1;
+    j = 2;
     p1 = &i;
     p2 = &j;
     int n = i+j;
