@@ -6,5 +6,5 @@ long loop_while(long a, long b)
             i = i * (a+b);
             a++;
         }
-        return 2;
+        return i;
 }
